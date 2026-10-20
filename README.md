@@ -188,3 +188,4 @@ Proyek ini dibuat untuk memberikan gambaran komprehensif tentang pipeline kerja 
 - geospatial analysis,
 - deep learning,
 - dan integrasi data secara umum.
+
